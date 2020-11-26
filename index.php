@@ -1,2 +1,2 @@
 <?php
-echo md5("Ismael");
+echo sha1("Ismael");
